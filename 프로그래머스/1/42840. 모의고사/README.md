@@ -1,4 +1,4 @@
-# [level 1] 모의고사 - 42840 
+<img width="2360" height="1096" alt="image" src="https://github.com/user-attachments/assets/630bb671-8490-40df-9dcd-3def03c82947" /># [level 1] 모의고사 - 42840 
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42840) 
 
@@ -71,5 +71,5 @@
 <li>모든 사람이 2문제씩을 맞췄습니다.</li>
 </ul>
 
-
+<p>2026-05-22 : 전날 푸쉬한 코딩테스트 기록이 보이지 않아서 시도해보는 리드미 커밋</p>
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
